@@ -1,0 +1,32 @@
+DETALLES PAGINA WEB
+- No se podrá acceder directamente a la url products_preview
+- Productos tamaño 413x648
+- Redefinir colores
+- imagen en banner dog show bundle
+- crear imagenes para catalogos 400*250
+- imagenes de razas 600*500
+- carousel de razas con loop infinito
+- arreglar mapa de contacto
+- agregar direccion fisica, telefono, fax, correo, facebook, twitter, instagram en pagina de contacto
+
+
+PANEL ADMINISTRATIVO ECOMMERCE
+	PRODUCTOS
+	- Configuraciones generales
+		- img tamaños
+	- Informacion 
+		- Titulo
+		- Descripcion corta
+		- precio
+		- cantida
+		- SKU
+		- Categoria
+		- Etiquetas
+		- imagenes
+	RAZAS
+	- Se pueden subir razas
+		- Nombre
+		- Galeria de imagenes
+	BLOG
+	GALLERY
+	FAQ

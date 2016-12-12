@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35f5dda0-db24-4919-8054-e351d5b81e47" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/front/images/home/logo_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/front/images/preloader-dark.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/banners/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/banners/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/banners/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/banners/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/banners/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/banners/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/banners/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/banners/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/banners/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/banners/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/banners/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/banners/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/brand.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/brand2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/category/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/category/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/category/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/category/17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/category/19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/category/21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/category/23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/category/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/dress/1-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/dress/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/dress/2-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/dress/2-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/dress/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/dress/3-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/dress/3-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/dress/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/pants/1-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/pants/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/pants/5-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/pants/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/shoes/1-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/shoes/1-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/shoes/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/shoes/2-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/shoes/2-2-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/shoes/2-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/shoes/2-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/shoes/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/shop-menu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/slider/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/slider/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/slider/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/slider/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/small/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/small/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/small/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/small/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/small/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/small/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/small/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/small/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/small/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/small/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/small/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/small/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/sunglasses/1-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/sunglasses/1-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/sunglasses/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/sunglasses/2-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/sunglasses/2-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/sunglasses/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/thumbs/dress/3-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/thumbs/dress/3-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/thumbs/dress/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/thumbs/small/dress-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/thumbs/small/shoes-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/thumbs/small/tshirt-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/tshirts/1-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/tshirts/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/tshirts/4-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/tshirts/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/watches/1-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/panel/images/shop/watches/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/front/emkt/product_preview.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/front/layout/page_title.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/front/sliders/home.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/front/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/front/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/front/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/front/css/dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/front/css/font-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/front/css/magnific-popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/front/css/responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/front/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/front/css/swiper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/front/js/functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/front/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/front/js/plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/front/scss/main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/routes.php" afterPath="$PROJECT_DIR$/application/config/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/Front.php" afterPath="$PROJECT_DIR$/application/controllers/Front.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/front/layout/end_page.php" afterPath="$PROJECT_DIR$/application/views/front/layout/end_page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/front/layout/footer.php" afterPath="$PROJECT_DIR$/application/views/front/layout/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/front/layout/header.php" afterPath="$PROJECT_DIR$/application/views/front/layout/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/front/layout/init_page.php" afterPath="$PROJECT_DIR$/application/views/front/layout/init_page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/front/pages/content.php" afterPath="$PROJECT_DIR$/application/views/front/pages/content.php" />
+    </list>
+    <ignored path="lieisoft_v2.1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="lieisoft_v2.1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="content.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/front/pages/content.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/front/scss/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/front/layout/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="569">
+              <caret line="98" column="34" selection-start-line="98" selection-start-column="34" selection-end-line="98" selection-end-column="34" />
+              <folding>
+                <element signature="e#1062#2396#0#HTML" expanded="false" />
+                <element signature="e#2409#4133#0#HTML" expanded="false" />
+                <element signature="e#2633#2638#0#HTML" expanded="true" />
+                <element signature="e#4378#4384#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="end_page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/front/layout/end_page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/front/layout/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="101" column="77" selection-start-line="101" selection-start-column="77" selection-end-line="101" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/helpers/languajeroli_helper.php" />
+        <option value="$PROJECT_DIR$/application/views/layout/footer.php" />
+        <option value="$PROJECT_DIR$/assets/pages/scripts/company/modules.js" />
+        <option value="$PROJECT_DIR$/application/views/pages/company/modules_company.php" />
+        <option value="$PROJECT_DIR$/assets/pages/scripts/company/modules_company.js" />
+        <option value="$PROJECT_DIR$/application/views/pages/company/all_companys.php" />
+        <option value="$PROJECT_DIR$/assets/pages/scripts/sidebar.js" />
+        <option value="$PROJECT_DIR$/application/views/layout/end_page.php" />
+        <option value="$PROJECT_DIR$/application/views/layout/init_page.php" />
+        <option value="$PROJECT_DIR$/assets/global/scripts/sidebar.js" />
+        <option value="$PROJECT_DIR$/assets/pages/scripts/user/components-form-tools.js" />
+        <option value="$PROJECT_DIR$/assets/pages/scripts/components-form-tools.js" />
+        <option value="$PROJECT_DIR$/assets/pages/scripts/user/profile.js" />
+        <option value="$PROJECT_DIR$/application/views/pages/user/profile.php" />
+        <option value="$PROJECT_DIR$/application/views/pages/company/my_company.php" />
+        <option value="$PROJECT_DIR$/application/views/layout/header.php" />
+        <option value="$PROJECT_DIR$/application/views/pages/roles/roles_profile.php" />
+        <option value="$PROJECT_DIR$/assets/pages/scripts/user/ui-tree.js" />
+        <option value="$PROJECT_DIR$/application/views/pages/user/user_all.php" />
+        <option value="$PROJECT_DIR$/application/views/pages/user/user_new.php" />
+        <option value="$PROJECT_DIR$/assets/global/css/components-rounded.min.css" />
+        <option value="$PROJECT_DIR$/application/views/pages/user/roles_profile.php" />
+        <option value="$PROJECT_DIR$/files/temp/modules.json" />
+        <option value="$PROJECT_DIR$/assets/pages/scripts/user/roles_profile.js" />
+        <option value="$PROJECT_DIR$/application/views/pages/company/new_company.php" />
+        <option value="$PROJECT_DIR$/assets/pages/scripts/company/new_company.js" />
+        <option value="$PROJECT_DIR$/application/views/layout/sidebar.php" />
+        <option value="$PROJECT_DIR$/application/views/pages/company/edit_company.php" />
+        <option value="$PROJECT_DIR$/assets/pages/scripts/company/edit_company.js" />
+        <option value="$PROJECT_DIR$/assets/pages/scripts/company/country.js" />
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Dashboard.php" />
+        <option value="$PROJECT_DIR$/application/config/autoload.php" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/files/lang/lang.json" />
+        <option value="$PROJECT_DIR$/application/views/front/layout/content.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Frontend.php" />
+        <option value="$PROJECT_DIR$/assets/front/css/main.css" />
+        <option value="$PROJECT_DIR$/application/views/front/sliders/slider.html" />
+        <option value="$PROJECT_DIR$/../salgado-website/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/views/front/sliders/home.php" />
+        <option value="$PROJECT_DIR$/application/views/front/emkt/product_preview.php" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/application/views/front/test.php" />
+        <option value="$PROJECT_DIR$/application/views/front/layout/init_page.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Front.php" />
+        <option value="$PROJECT_DIR$/application/views/front/pages/content.php" />
+        <option value="$PROJECT_DIR$/assets/front/scss/main.scss" />
+        <option value="$PROJECT_DIR$/application/views/front/layout/footer.php" />
+        <option value="$PROJECT_DIR$/application/views/front/layout/end_page.php" />
+        <option value="$PROJECT_DIR$/application/views/front/layout/header.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="886" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blunovadogshow_v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yesicanonline_new2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\DESARROLLO\blunovadogshow_v2\assets\front\css" />
+      <recent name="C:\wamp\www\DESARROLLO\blunovadogshow_v2\assets\front" />
+      <recent name="C:\wamp\www\DESARROLLO\blunovadogshow_v2\assets\panel\images" />
+      <recent name="C:\wamp\www\DESARROLLO\blunovadogshow_v2\application\views\front\sliders" />
+      <recent name="C:\wamp\www\DESARROLLO\blunovadogshow_v2\application\views\front\pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\DESARROLLO\blunovadogshow_v2\assets\front\images" />
+      <recent name="C:\wamp\www\DESARROLLO\blunovadogshow_v2\assets\panel\images" />
+      <recent name="C:\wamp\www\DESARROLLO\blunovadogshow_v2\assets\front\images\products" />
+      <recent name="C:\wamp\www\DESARROLLO\blunovadogshow_v2\application\views\front\sliders" />
+      <recent name="C:\wamp\www\DESARROLLO\blunovadogshow_v2\assets\front\images\home" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35f5dda0-db24-4919-8054-e351d5b81e47" name="Default" comment="" />
+      <created>1476142813013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1476142813013</updated>
+      <workItem from="1476142815989" duration="3743000" />
+      <workItem from="1476195926038" duration="1645000" />
+      <workItem from="1476276032969" duration="37934000" />
+      <workItem from="1476366446095" duration="28940000" />
+      <workItem from="1476449226358" duration="23737000" />
+      <workItem from="1476484173206" duration="759000" />
+      <workItem from="1476558080926" duration="1490000" />
+      <workItem from="1476713662661" duration="615000" />
+      <workItem from="1476734169490" duration="1002000" />
+      <workItem from="1476888355882" duration="187000" />
+      <workItem from="1476920852491" duration="736000" />
+      <workItem from="1476969442335" duration="4076000" />
+      <workItem from="1477149023742" duration="1192000" />
+      <workItem from="1477168804396" duration="39000" />
+      <workItem from="1477508021116" duration="598000" />
+      <workItem from="1477580568692" duration="203000" />
+      <workItem from="1477580894926" duration="4982000" />
+      <workItem from="1477586236979" duration="11826000" />
+      <workItem from="1477659627974" duration="5285000" />
+      <workItem from="1477681718710" duration="10003000" />
+    </task>
+    <task id="LOCAL-00001" summary="some modifications">
+      <created>1476143544199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1476143544199</updated>
+    </task>
+    <task id="LOCAL-00002" summary="login ready">
+      <created>1476145530023</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1476145530023</updated>
+    </task>
+    <task id="LOCAL-00003" summary="locked ready">
+      <created>1476145678575</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1476145678575</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new company ready">
+      <created>1476146121748</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1476146121748</updated>
+    </task>
+    <task id="LOCAL-00005" summary="all companys ready (migration)">
+      <created>1476146174175</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1476146174175</updated>
+    </task>
+    <task id="LOCAL-00006" summary="edit company ready (migration)">
+      <created>1476146434299</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1476146434299</updated>
+    </task>
+    <task id="LOCAL-00007" summary="my company ready (migration)">
+      <created>1476146513859</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1476146513859</updated>
+    </task>
+    <task id="LOCAL-00008" summary="NEW, ALL AND EDIT USER READY">
+      <created>1476196815321</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1476196815321</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Asignacion de modulos a empresas listo">
+      <created>1476301422974</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1476301422974</updated>
+    </task>
+    <task id="LOCAL-00010" summary="opcion de menu seleccionada se mantiene abierta&#10;">
+      <created>1476303167713</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1476303167713</updated>
+    </task>
+    <task id="LOCAL-00011" summary="campos correctos company/this">
+      <created>1476312907318</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1476312907318</updated>
+    </task>
+    <task id="LOCAL-00012" summary="trabajando en Perfiles de Roles">
+      <created>1476320954627</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1476320954627</updated>
+    </task>
+    <task id="LOCAL-00013" summary="trabajando en Perfiles de Roles">
+      <created>1476734371865</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1476734371865</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="138992000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32860824" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="some modifications" />
+    <MESSAGE value="login ready" />
+    <MESSAGE value="locked ready" />
+    <MESSAGE value="new company ready" />
+    <MESSAGE value="all companys ready (migration)" />
+    <MESSAGE value="edit company ready (migration)" />
+    <MESSAGE value="my company ready (migration)" />
+    <MESSAGE value="NEW, ALL AND EDIT USER READY" />
+    <MESSAGE value="Asignacion de modulos a empresas listo" />
+    <MESSAGE value="opcion de menu seleccionada se mantiene abierta&#10;" />
+    <MESSAGE value="campos correctos company/this" />
+    <MESSAGE value="trabajando en Perfiles de Roles" />
+    <option name="LAST_COMMIT_MESSAGE" value="trabajando en Perfiles de Roles" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/global/scripts/sidebar.js" />
+    <entry file="file://$PROJECT_DIR$/assets/img/login/C001/logo.png" />
+    <entry file="file://$PROJECT_DIR$/assets/global/plugins/bootstrap-pwstrength/README.md" />
+    <entry file="file://$PROJECT_DIR$/assets/pages/scripts/user/components-form-tools.js" />
+    <entry file="file://$PROJECT_DIR$/assets/pages/scripts/components-form-tools.js" />
+    <entry file="file://$PROJECT_DIR$/application/views/pages/user/profile.php" />
+    <entry file="file://$PROJECT_DIR$/assets/pages/scripts/user/profile.js" />
+    <entry file="file://$PROJECT_DIR$/application/models/model1.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/layout/header.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/layout/content.php" />
+    <entry file="file://$PROJECT_DIR$/assets/global/css/components-rounded.min.css" />
+    <entry file="file://$PROJECT_DIR$/application/views/pages/user/user_all.php" />
+    <entry file="file://$PROJECT_DIR$/assets/pages/scripts/user/new_user.js" />
+    <entry file="file://$PROJECT_DIR$/application/views/pages/user/user_new.php" />
+    <entry file="file://$PROJECT_DIR$/assets/pages/scripts/user/roles_profile.js" />
+    <entry file="file://$PROJECT_DIR$/application/views/pages/user/roles_profile.php" />
+    <entry file="file://$PROJECT_DIR$/files/temp/modules.json" />
+    <entry file="file://$PROJECT_DIR$/application/views/pages/company/new_company.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/pages/company/my_company.php" />
+    <entry file="file://$PROJECT_DIR$/assets/pages/scripts/company/new_company.js" />
+    <entry file="file://$PROJECT_DIR$/application/views/layout/sidebar.php" />
+    <entry file="file://$PROJECT_DIR$/assets/pages/scripts/company/country.js" />
+    <entry file="file://$PROJECT_DIR$/assets/pages/scripts/company/edit_company.js" />
+    <entry file="file://$PROJECT_DIR$/application/views/pages/company/edit_company.php" />
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="80" column="37" selection-start-line="80" selection-start-column="37" selection-end-line="80" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Company_LS.php" />
+    <entry file="file://$PROJECT_DIR$/application/libraries/Ls_sessions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2040">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/lang/lang.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/errors/html/error_404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="60" column="63" selection-start-line="60" selection-start-column="63" selection-end-line="60" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/cache/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/front/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/front/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3571">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/front/sliders/slider.html" />
+    <entry file="file://$PROJECT_DIR$/../salgado-website/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/front/sliders/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="222" column="41" selection-start-line="222" selection-start-column="41" selection-end-line="222" selection-end-column="41" />
+          <folding>
+            <marker date="1477667000896" expanded="true" signature="4609:4653" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/front/layout/page_title.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/front/emkt/product_preview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/front/js/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="460" column="723" selection-start-line="460" selection-start-column="720" selection-end-line="460" selection-end-column="723" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/front/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61778">
+          <caret line="3634" column="24" selection-start-line="3634" selection-start-column="20" selection-end-line="3634" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/front/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/front/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="35" />
+          <folding>
+            <element signature="e#48248#48253#0#HTML" expanded="true" />
+            <element signature="e#49765#49770#0#HTML" expanded="true" />
+            <element signature="e#50529#50534#0#HTML" expanded="true" />
+            <element signature="e#53244#53249#0#HTML" expanded="true" />
+            <element signature="e#77570#77575#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#82741#82746#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#small#0;n#a#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#small#0;n#a#1;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#85184#85190#0#HTML" expanded="true" />
+            <element signature="e#87514#87522#0#HTML" expanded="true" />
+            <element signature="e#87600#87608#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Front.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/front/layout/init_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/front/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/front/pages/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/front/layout/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="98" column="34" selection-start-line="98" selection-start-column="34" selection-end-line="98" selection-end-column="34" />
+          <folding>
+            <element signature="e#1062#2396#0#HTML" expanded="false" />
+            <element signature="e#2409#4133#0#HTML" expanded="false" />
+            <element signature="e#2633#2638#0#HTML" expanded="true" />
+            <element signature="e#4378#4384#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/front/layout/end_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/front/layout/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="101" column="77" selection-start-line="101" selection-start-column="77" selection-end-line="101" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
